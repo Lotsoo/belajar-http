@@ -1,0 +1,3 @@
+Web server adalah aplikasi yang berjalan di jaringan internet yang bertugas sebagai server
+Web server berisi informasi dan data yang bisa diakses oleh client
+Web server akan menerima request dari client, dan membalas request tersebut berupa informasi atau data yang diminta oleh client
