@@ -1,0 +1,5 @@
+DNS singkatan dari Domain Name Server
+DNS merupakan tempat yang berisi data katalog pemetaan antara nama domain di URL menuju lokasi IP komputer
+Saat web browser mengkases sebuah domain di web, sebenarnya prosesnya akan bertanya ke DNS untuk mendapatkan IP, lalu web browser akan melakukan request ke IP tersebut
+
+Contoh: google.com memiliki IP 172.217.203.102
