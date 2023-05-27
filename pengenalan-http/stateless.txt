@@ -1,0 +1,3 @@
+HTTP merupakan protokol yang stateless, artinya setiap HTTP Request merupakan request yang independen, tidak ada keterkaitan antara HTTP Request sebelumnya atau sesudahnya.
+
+Hal ini dilakukan agar HTTP Request tidak harus dilakukan secara sequence, sehingga client bisa melakukan HTTP Request secara bebas tanpa ada aturan harus mulai dari mana
