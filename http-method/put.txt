@@ -1,0 +1,2 @@
+PUT adalah sebuah HTTP Method untuk mengganti semua data yang terdapat di server dengan data baru yang dikirim di request
+Biasanya PUT digunakan untuk mengedit atau replace sebuah data
