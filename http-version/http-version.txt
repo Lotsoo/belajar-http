@@ -1,2 +1,2 @@
-Saat ini, kebanyakan web berjalan di HTTP/1.1 atau HTTP2
-HTTP2 mulai hadir sekitar tahun 2015, dan saat ini sudah banyak diadopsi oleh semua web di dunia
+Saat ini, kebanyakan web berjalan di HTTP/1.1 atau HTTP/2
+HTTP/2 mulai hadir sekitar tahun 2015, dan saat ini sudah banyak diadopsi oleh semua web di dunia

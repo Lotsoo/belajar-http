@@ -1,0 +1,2 @@
+Perbedaan HTTP/1.1 dengan HTTP/2 adalah jika HTTP/2 Request yang dikirim akan berubah menjadi binary, karena lebih cepat.
+Tetapi jika web server belum mendukung HTTP/2, maka akan otomatis berubah menjadi HTTP/1.1
