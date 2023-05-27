@@ -1,0 +1,2 @@
+Network Tool adalah sebuah alat untuk melihat apa yang dilakukan dibelakang web browser
+Dengan Network Tool, kita bisa melihat semua detail HTTP Request dan HTTP Response yang dilakukan oleh Client dan Server
