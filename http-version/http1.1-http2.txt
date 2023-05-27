@@ -1,2 +1,2 @@
-Perbedaan HTTP/1.1 dengan HTTP/2 adalah jika HTTP/2 Request yang dikirim akan berubah menjadi binary, karena lebih cepat.
+Perbedaan HTTP/1.1 dengan HTTP/2 adalah jika HTTP/2 Request yang dikirim akan berubah menjadi binary, karena lebih cepat. Selain itu HTTP2 menggunakan algoritma kompresi untuk memperkecil request, dan mendukung multiplexing yang bisa mengirim beberapa request dalam satu connection yang sama
 Tetapi jika web server belum mendukung HTTP/2, maka akan otomatis berubah menjadi HTTP/1.1
