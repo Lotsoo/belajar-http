@@ -1,0 +1,2 @@
+HTTP adalah singkatan dari Hypertext Transfer Protocol
+HTTP merupakan protokol untuk tranmisi / kirim data dari komputer a ke komputer lain, contoh seperti HTML, Javascript, CSS, image, audio, video, dll
