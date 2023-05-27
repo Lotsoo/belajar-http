@@ -1,0 +1,2 @@
+POST adalah sebuah HTTP Method untuk mengirim data ke server
+Pada umumnya POST digunakan untuk mengirim data baru sehingga biasanya memiliki request body
