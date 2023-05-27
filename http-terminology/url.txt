@@ -1,0 +1,3 @@
+URL singkatan dari Uniform Resource Locator
+URL merupakan alamat dari sebuah resource di web
+Contoh URL: https://www.google.com/
