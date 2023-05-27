@@ -1,0 +1,2 @@
+Web browser adalah aplikasi yang digunakan untuk mengakases web menggunakan protokol HTTP
+Contoh aplikasinya adalah Firefox, Chrome, Safari, dll
