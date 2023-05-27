@@ -1,0 +1,2 @@
+Bagian awal di URL adalah schema yang mengindikasikan protokol yang perlu digunakan oleh Client
+Biasanya dalam URL website, schema protokol tersebut http & https
