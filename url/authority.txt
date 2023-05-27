@@ -1,0 +1,10 @@
+Authority terdiri dari nama domain dan nomor port yang dipisahkan dengan titik dua
+Nama domain nanti akan ditanyakan ke DNS untuk mendapatkan alamat IP nya
+Namun kita juga bisa langsung menggunakan IP jika memang websitenya tidak memiliki nama domain
+Nomor port tidak wajib, tanpa nomor port secara default bernilai 80 untuk http dan 443 untuk https
+
+Contoh Authority:
+www.example.com:80
+
+Nama domainn: www.example.com
+Nomor port: 80
