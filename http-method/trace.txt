@@ -1,0 +1,2 @@
+TRACE adalah sebuah HTTP Method request method untuk debugging
+Response TRACE Method akan mengembalikan seluruh informasi yang dikirim oleh Client
