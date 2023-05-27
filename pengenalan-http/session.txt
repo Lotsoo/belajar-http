@@ -1,0 +1,1 @@
+HTTP Cookie memaksa client untuk menyimpan informasi yang diberikan oleh server
