@@ -1,0 +1,4 @@
+Client & Server
+
+Client adalah user yang meminta atau mengirim data melalui HTTP Request kepada server
+Dan server akan membalasnya dengan HTTP Response dari HTTP Request yang diterima
