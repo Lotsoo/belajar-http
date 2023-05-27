@@ -1,0 +1,6 @@
+Parameter dipisahkan oleh karakter ? setelah Authority atau Path (jika ada)
+Parameter merupakan informasi tambahan yang berisi key=value
+Jika ingin menambahkan lebih dari satu parameter, maka kita bisa menambahkan parameter dengan menggunakan karakter &
+
+Contoh Parameter:
+www.example.com:80/path/to/myfile.html?key1=value1&key2=value2
