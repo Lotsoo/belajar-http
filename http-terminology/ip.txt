@@ -1,0 +1,4 @@
+IP singkatan dari Internet Protocol
+IP digunakan sebagai identitas/alamat komputer di jaringan
+Setiap komputer baik itu client atau server akan memiliki IP
+Dan IP memiliki 2 jenis yaitu static (Tidak berubah) & dinamis (Berubah)
