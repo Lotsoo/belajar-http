@@ -1,0 +1,4 @@
+Secara default, HTTP tidaklah aman
+HTTPS adalah HTTP dengan enkripsi
+Perbedaan HTTPS dengan HTTP adalah pada HTTPS menggunakan SSL (Secure Sockets Layer) untuk melakukan enkripsi HTTP Request dan HTTP Response
+Hasilnya HTTPS akan jauh lebih aman daripada HTTP
