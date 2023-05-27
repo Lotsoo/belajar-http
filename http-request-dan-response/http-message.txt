@@ -1,0 +1,27 @@
+HTTP Request dan HTTP Response, sebenarnya sebuah HTTP Message
+HTTP Message memiliki standarisasi format.
+
+Contoh HTTP Message pada Request:
+//Start line
+POST /login HTTP/1.1 
+//Header, menggunakan key: dan value
+Host: example.com 
+Connection: keep-alive
+
+//Space
+
+//Body
+{"password": "rahasia", "username": "Lotso"}
+
+
+Contoh HTTP Message pada Response:
+//Start line
+HTTP/1.1 200
+//Header
+Connection: keep-alive
+Keep-Alive: timeout=60
+
+//Space
+
+//Body
+{"status": "OK", "code": 200, "data": {"username": "Lotso"}}
