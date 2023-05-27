@@ -1,0 +1,6 @@
+Anchor merupakan representasi bookmark dalam sebuah website
+
+Contoh jika kita ingin mengirimkan link yang langsung menuju 'tutorial' kepada orang lain:
+www.example.com#tutorial
+
+Maka ketika orang lain membuka link tersebut, maka langsung menuju 'tutorial' tanpa harus mengscrol halaman dari atas kebawah
