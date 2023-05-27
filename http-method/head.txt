@@ -1,0 +1,1 @@
+HEAD adalah sebuah HTTP Method untuk melakukan request data seperti GET, tapi tanpa membutuhkan response body 
