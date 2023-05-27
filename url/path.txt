@@ -1,0 +1,5 @@
+Path biasanya berisikan informasi menuju ke resource yang kita tuju
+Path terlihat seperti kumpulan folder dan biasanya diakhiri dengan file yang kita akses
+
+Contoh Path: 
+www.example.com:80/path/to/myfile.html
