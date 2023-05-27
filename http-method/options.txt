@@ -1,0 +1,2 @@
+OPTIONS adalah sebuah HTTP Method untuk mendeskripsikan opsi komunikasi yang tersedia
+Biasanya digunakan untuk melihat ada operasi apa saja di website tersebut, apakah ada GET? POST? dll
