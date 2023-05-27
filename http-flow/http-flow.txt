@@ -1,0 +1,3 @@
+Dalam HTTP, biasanya terdapat 2 pihak yang terlibat, yaitu Client dan Server
+Client akan mengirimkan Request
+Dan server akan menerima Requestnya lalu membalas dengan Response
