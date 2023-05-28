@@ -1,0 +1,5 @@
+Redirect (300-399)
+
+- Redirect status code mengindikasikan bahwa client harus melakukan aksi selanjutnya untuk menyelesaikan request
+- Biasanya redirect status code digunakan ketika lokasi sebuah response berubah, sehingga server meminta client untuk berpindah ke URL lain
+- Contoh redirect adalah ketika kita login maka kita akan berpindah ke halaman utama
