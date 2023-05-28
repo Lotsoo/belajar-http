@@ -1,0 +1,3 @@
+HTTP Cookie merupakan informasi yang diberikan oleh server, dan client otomatis akan menyimpan data tersebut, contohnya di web browser
+Ketika web browser melakukan request selanjutnya, maka web browser akan menyisipkan cookie yang sudah diterima di request sebelumnya
+Dari cookie tersebut, server bisa mengetahui apakah request tersebut merupakan request client yang sudah login atau belum
