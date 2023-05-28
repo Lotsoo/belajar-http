@@ -1,0 +1,2 @@
+Server meminta agar client melakukan caching, maka HTTP Response perlu menambahkan informasi Cache-Control di Header
+Cache-Control berisi informasi seperti berapa lama client bisa menyimpan data response tersebut, sehingga tidak perlu meminta ulang ke server
