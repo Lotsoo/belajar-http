@@ -1,0 +1,4 @@
+Server Error (500-599)
+
+- Server error status code mengindikasi bahwa terjadi kesalahan di server
+- Biasanya ini terjadi ketika ada masalah di server, seperti misalnya tidak bisa terkoneksi ke basis data, terdapat jaringan error di server, dll
