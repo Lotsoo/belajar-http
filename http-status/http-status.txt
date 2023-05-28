@@ -1,0 +1,8 @@
+HTTP Status merupakan kode HTTP Response yang mengindikasikan apakah sebuah Request yang diterima server sukses, gagal, atau ada hal lain yang harus diketahui oleh client
+
+HTTP Status diklasifikasikan dalam 5 grup yaitu:
+- Informational Response (100-199)
+- Successful Response (200-299)
+- Redirect (300-399)
+- Client Error (400-499)
+- Server Error (500-599)
