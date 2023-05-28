@@ -1,0 +1,4 @@
+Host berupa authority pada URL (wajib sejak versi HTTP/1.1)
+
+Contoh Host: 
+www.example.com
