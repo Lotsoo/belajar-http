@@ -1,0 +1,5 @@
+Informational Response (100-199)
+
+- Informational Response mengindikasi bahwa request telah diterima dan dimengerti
+- Namun client diminta untuk menunggu tahapan akhir response
+- Pada kenyataannya, Informational response sangat jarang sekali digunakan
