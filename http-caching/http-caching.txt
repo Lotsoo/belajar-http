@@ -1,0 +1,4 @@
+Caching adalah menyimpan data di client sampai batas waktu yang sudah ditentukan, 
+sehingga jika client ingin melakukan request resource yang sama, cukup ambil resource nya di client, tanpa harus meminta ulang kepada server
+
+HTTP Caching sangat cocok dilakukan untuk resource file static yang jarang berubah, seperti file gambar, audio, video, dll
