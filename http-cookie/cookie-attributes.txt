@@ -1,0 +1,2 @@
+Cookie memiliki atribut yang bisa ditambahkan ketika membuat cookie di HTTP Response
+Seperti masa berlaku cookie, apakah harus http, dll
