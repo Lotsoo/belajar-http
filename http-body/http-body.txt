@@ -1,0 +1,3 @@
+HTTP Body merupakan data yang bisa dikirim di HTTP Request, atau data yang diterima dari HTTP Response
+Artinya client bisa mengirim data ke server menggunakan HTTP Body, begitu juga sebaliknya
+Server bisa memberikan body di Response menggunakan HTTP Body
