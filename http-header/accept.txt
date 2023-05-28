@@ -1,0 +1,1 @@
+Accept berupa tipe data yang diterima oleh client
