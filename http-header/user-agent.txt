@@ -1,0 +1,1 @@
+User-Agent berupa informasi user agent (seperti browser dan sistem operasi)
