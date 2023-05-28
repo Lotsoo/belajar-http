@@ -1,0 +1,4 @@
+Content-Type berupa tipe data dari HTTP Body
+
+Contoh Content-Type ketika ingin mengirim data gambar ke server, maka isi Content-Type itu adalah gambar/image
+Content-Type penting agar si server mengetahui Request dari si client
