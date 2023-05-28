@@ -1,0 +1,3 @@
+Successful Response (200-299)
+
+- Successful Response merupakan kode yang mengindikasi bahwa request yang dikirim oleh client telah diterima, dimengerti, dan sukses diproses oleh server
