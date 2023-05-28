@@ -1,0 +1,5 @@
+Client Error (400-499)
+
+- Client error status code merupakan indikasi bahwa request yang dikirim oleh client tidak diterima oleh server dikarenakan request yang dikirim dianggap tidak valid
+- Contohnya client mengirim body yang salah, client melakukan request tanpa autentikasi di resource yang mewajibkan autentikasi
+  (mengupload video di youtube tanpa login terlebih dahulu)
